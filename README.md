@@ -1,2 +1,2 @@
 # educational-repository
-This repository is created for educational aims.
+This repository is created for educational purposes.
